@@ -2,7 +2,7 @@
 
 int main()
 {
-	float x;
+	float x =3.141;
 
 	printf("The value of %f is unknown\n",x);
 

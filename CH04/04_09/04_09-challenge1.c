@@ -8,6 +8,11 @@ int main()
 	scanf("%d",&a);
 
 	/* write the loop here */
-
+ while (a>0)
+ {
+	putchar('-');
+	--a;1
+ }
+ 
 	return(0);
 }

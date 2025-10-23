@@ -10,7 +10,7 @@ int main()
 	for(a=0;a<b;a++)
 	{
 		printf("I must do this %d times\n",b);
-		if(a==9)
+		if(a==5)
 			break;
 	}
 	
